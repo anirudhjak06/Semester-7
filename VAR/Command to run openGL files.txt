@@ -1,0 +1,7 @@
+For C++ Files:
+
+g++ filename.cpp -o filename -lopengl32 -lglew32 -lfreeglut -lglu32
+
+For C Files:
+
+gcc filename.c -o filename -lopengl32 -lglew32 -lfreeglut -lglu32

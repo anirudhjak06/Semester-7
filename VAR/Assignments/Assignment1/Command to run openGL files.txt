@@ -1,0 +1,1 @@
+g++ S20190010007_A1.cpp -o Create_Polygons -lopengl32 -lglew32 -lfreeglut -lglu32
